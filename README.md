@@ -3,10 +3,10 @@
 - 🔭 I’m currently working on CabManagementSystem or else CMS
 - 🌱 I’m currently learning framework ASP.Net
 ## My Socials:
-- [VK](https://vk.com/maxim_lebedev6) 
-- [Telegram](https://t.me/slwlyg) 
-- [Discord](https://discordapp.com/users/712968745127116820) 
-- [Mail](cloudyfg@gmail.com)
+- **[VK](https://vk.com/maxim_lebedev6)**
+- **[Telegram](https://t.me/slwlyg)** 
+- **[Discord](https://discordapp.com/users/712968745127116820)**
+- **Mail - cloudyfg@gmail.com**
 <p></p><br />
 
 ## Pinned Repositories:
