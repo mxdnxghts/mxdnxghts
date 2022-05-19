@@ -9,6 +9,14 @@
 - **Mail - cloudyfg@gmail.com**
 <p></p><br />
 
+## Code Activity:
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@Cloudy/f3077d91-1b34-4010-864a-80f14512afe5.png" /></a>
+
+<p></p><br />
+
+## Used Languages:
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@Cloudy/829ce5e4-171d-44ad-858d-3f6fc49cfecb.png" /></a>
+
 ## Pinned Repositories:
 
 <p></p><br />
