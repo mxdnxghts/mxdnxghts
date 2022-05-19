@@ -15,7 +15,7 @@
 <p></p><br />
 
 ## Used Languages:
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@Cloudy/1c9fbbbd-9eb1-42fa-b537-e93191112562.png" /></a>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@Cloudy/b6d8bebb-828a-4bd6-b137-95a52a05f5f8.png" /></a>
 
 ## Pinned Repositories:
 
