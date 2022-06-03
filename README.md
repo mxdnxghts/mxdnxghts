@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on CabManagementSystem or else CMS
-- 🌱 I’m currently learning framework ASP.Net
+- 🌱 I’m currently learning framework ASP.Net and JavaScript
 ## My Socials:
 - **[VK](https://vk.com/maxim_lebedev6)**
 - **[Telegram](https://t.me/slwlyg)** 
