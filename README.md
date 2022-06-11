@@ -16,10 +16,3 @@
 
 ## Used Languages:
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@Cloudy/fcca700d-89c4-4446-99e3-90087cb6d7bf.png" /></a>
-
-## Pinned Repositories:
-
-<p></p><br />
-<a href="https://github.com/CloudlyFog/InContact">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CloudlyFog&repo=InContact&theme=github_dark" />
-</a>
