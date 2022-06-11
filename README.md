@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning framework ASP.Net and JavaScript
 ## My Socials:
 - **[VK](https://vk.com/maxim_lebedev6)**
-- **[Telegram](https://t.me/slwlyg)** 
+- **[Telegram](https://t.me/slwlyd)** 
 - **[Discord](https://discordapp.com/users/712968745127116820)**
 - **Mail - cloudyfg@gmail.com**
 <p></p><br />
