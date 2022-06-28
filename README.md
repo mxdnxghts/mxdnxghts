@@ -10,7 +10,7 @@
 
 ## About me
 I'm a College student at VSTU in Voronezh, Russia. I had end my first course of studying in the College.<br>
-I'm working on CabManagementSystem or else CMS, in which user can order taxi. Also in that project was introduced own bank system. Of course with bugs but in hard development.
+I'm working on my new projects CabManagementSystem and StickerPacks which now is private. Also I'm developing my side project BankSystem. Of course with bugs but in hard development.
 
 <p></p><br />
 
