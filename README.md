@@ -16,7 +16,7 @@ I'm working on my new projects CabManagementSystem and StickerPacks which now is
 
 ## My Socials:
 - **[VK](https://vk.com/maxim_lebedev6)**
-- **[Telegram](https://t.me/slwlyd)** 
+- **[Telegram](https://t.me/hayakodes)** 
 - **[Discord](https://discordapp.com/users/712968745127116820)**
 - **Mail - cloudyfg@gmail.com**
 <p></p><br />
