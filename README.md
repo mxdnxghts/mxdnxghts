@@ -9,8 +9,10 @@
 <p></p><br />
 
 ## About me
-I'm a College student at VSTU in Voronezh, Russia. I had end my first course of studying in the College.<br>
-I'm working on my new projects CabManagementSystem and StickerPacks which now is private. Also I'm developing my side project BankSystem. Of course with bugs but in hard development.
+I'm a College student at VSTU in Voronezh, Russia.<br>
+I'm working on the different projects with programming language **c#**. You can use any project if u want in ur own goals.<br>
+I like kitty so much and therefore got a little cute ginger kitty. Her name is Michelle. This small ball of wool help don't give up and go next <br>
+to my the most important dreams - to make she happy!
 
 <p></p><br />
 
