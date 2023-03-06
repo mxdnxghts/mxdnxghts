@@ -3,6 +3,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CloudlyFog&show_icons=true&theme=radical)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=CloudlyFog&theme=midnight-purple&hide_border=true&currStreakLabel=E4289E&background=2B213A&fire=E4289E&sideNums=E4289E&currStreakNum=E4289E)](https://git.io/streak-stats)  
 
+
 <p></p><br />
 
 ## About me
@@ -17,6 +18,7 @@ I like kitty so much and therefore got a little cute ginger kitty. Her name is M
 - **[Telegram](https://t.me/sindzhi)** 
 - **[Discord](https://discordapp.com/users/712968745127116820)**
 - **Mail - cloudyfg@gmail.com**
+- **CodeWars =![CodeWars](https://www.codewars.com/users/CloudlyFog/badges/micro)**
 <p></p><br />
 
 ## Code Activity:
