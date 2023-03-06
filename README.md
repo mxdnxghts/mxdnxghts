@@ -18,7 +18,7 @@ I like kitty so much and therefore got a little cute ginger kitty. Her name is M
 - **[Telegram](https://t.me/sindzhi)** 
 - **[Discord](https://discordapp.com/users/712968745127116820)**
 - **Mail - cloudyfg@gmail.com**
-- **CodeWars =![CodeWars](https://www.codewars.com/users/CloudlyFog/badges/micro)**
+- **CodeWars - ![CodeWars](https://www.codewars.com/users/CloudlyFog/badges/micro)**
 <p></p><br />
 
 ## Code Activity:
