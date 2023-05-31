@@ -15,7 +15,7 @@ I like kitty so much and therefore got a little cute ginger kitty. Her name is M
 
 ## My Socials:
 - **[VK](https://vk.com/maxim_lebedev6)**
-- **[Telegram](https://t.me/sindzhi)** 
+- **[Telegram](https://t.me/mxdnxghts)** 
 - **[Discord](https://discordapp.com/users/712968745127116820)**
 - **Mail - cloudyfg@gmail.com**
 - **[CodeWars](https://www.codewars.com/users/CloudlyFog) - ![CodeWars](https://www.codewars.com/users/CloudlyFog/badges/micro)**
