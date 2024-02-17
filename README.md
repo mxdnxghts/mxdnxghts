@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋</h1>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CloudlyFog&show_icons=true&theme=radical)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=CloudlyFog&theme=midnight-purple&hide_border=true&currStreakLabel=E4289E&background=2B213A&fire=E4289E&sideNums=E4289E&currStreakNum=E4289E)](https://git.io/streak-stats)  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mxdnxghts&show_icons=true&theme=radical)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mxdnxghts&theme=midnight-purple&hide_border=true&currStreakLabel=E4289E&background=2B213A&fire=E4289E&sideNums=E4289E&currStreakNum=E4289E)](https://git.io/streak-stats)  
 
 
 <p></p><br />
@@ -18,7 +18,7 @@ I like kitty so much and therefore got a little cute ginger kitty. Her name is M
 - **[Telegram](https://t.me/mxdnxghts)** 
 - **[Discord](https://discordapp.com/users/712968745127116820)**
 - **Mail - cloudyfg@gmail.com**
-- **[CodeWars](https://www.codewars.com/users/CloudlyFog) - ![CodeWars](https://www.codewars.com/users/CloudlyFog/badges/micro)**
+- **[CodeWars](https://www.codewars.com/users/mxdnxghts) - ![CodeWars](https://www.codewars.com/users/mxdnxghts/badges/micro)**
 <p></p><br />
 
 ## Code Activity:
