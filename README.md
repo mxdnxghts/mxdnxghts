@@ -7,9 +7,7 @@
 <p></p><br />
 
 ## About me
-I'm a College student at VSTU in Voronezh, Russia.<br>
-I'm working on the different projects with programming language **c#**. You can use any project if u want in ur own goals.<br>
-I like kitty so much and therefore got a little cute ginger kitty. Her name is Michelle. This small ball of wool help don't give up and go next to my the most important dreams - to make she happy!
+Developing web applications.
 
 <p></p><br />
 
