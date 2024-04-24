@@ -3,12 +3,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mxdnxghts&show_icons=true&theme=radical)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mxdnxghts&theme=midnight-purple&hide_border=true&currStreakLabel=E4289E&background=2B213A&fire=E4289E&sideNums=E4289E&currStreakNum=E4289E)](https://git.io/streak-stats)  
 
-
-<p></p><br />
-
-## About me
-Developing web applications.
-
 <p></p><br />
 
 ## My Socials:
