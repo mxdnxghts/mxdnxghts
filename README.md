@@ -12,9 +12,3 @@
 - **Mail - maximkirichenk0.06@gmail.com**
 - **[CodeWars](https://www.codewars.com/users/mxdnxghts) - ![CodeWars](https://www.codewars.com/users/mxdnxghts/badges/micro)**
 <p></p><br />
-
-## Code Activity:
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@Cloudy/f3077d91-1b34-4010-864a-80f14512afe5.png" /></a>
-
-<p></p><br />
-
