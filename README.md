@@ -8,7 +8,7 @@
 ## My Socials:
 - **[VK](https://vk.com/maxim_lebedev6)**
 - **[Telegram](https://t.me/mxdnxghts)** 
-- **[Discord](https://discordapp.com/users/712968745127116820)**
+- **[Discord](https://discordapp.com/users/888414590717816852)**
 - **Mail - maximkirichenk0.06@gmail.com**
 - **[CodeWars](https://www.codewars.com/users/mxdnxghts) - ![CodeWars](https://www.codewars.com/users/mxdnxghts/badges/micro)**
 <p></p><br />
